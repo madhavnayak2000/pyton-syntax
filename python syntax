@@ -1,0 +1,8 @@
+x=int(input("enter no:"))
+y=int(input("enter no:"))
+z=x+y
+l=z*xx+y
+c=l/z+(x*y)
+print(z)
+print(l)
+print(c)
