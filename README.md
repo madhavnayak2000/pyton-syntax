@@ -1,2 +1,2 @@
-# pyton-syntax
+# python-syntax
 game.py
